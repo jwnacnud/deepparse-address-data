@@ -3,7 +3,7 @@ This repository contains the address data used to train the models of our addres
 [deepparse](https://deepparse.org).
 
 The data present in this repository has been generated using data from the 
-[lipbostal](https://github.com/openvenues/libpostal) project.
+[libpostal](https://github.com/openvenues/libpostal) project.
 
 ## Content of the Project
  - The script to merge all the countries' datasets into a single one (`make_dataset`).
